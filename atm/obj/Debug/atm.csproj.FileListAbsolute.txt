@@ -1,0 +1,12 @@
+c:\users\xeyyam\documents\visual studio 2017\Projects\atm\atm\bin\Debug\atm.exe.config
+c:\users\xeyyam\documents\visual studio 2017\Projects\atm\atm\bin\Debug\atm.exe
+c:\users\xeyyam\documents\visual studio 2017\Projects\atm\atm\bin\Debug\atm.pdb
+c:\users\xeyyam\documents\visual studio 2017\Projects\atm\atm\obj\Debug\atm.csprojResolveAssemblyReference.cache
+c:\users\xeyyam\documents\visual studio 2017\Projects\atm\atm\obj\Debug\atm.exe
+c:\users\xeyyam\documents\visual studio 2017\Projects\atm\atm\obj\Debug\atm.pdb
+C:\Users\Xeyyam\Desktop\atm\atm\bin\Debug\atm.exe.config
+C:\Users\Xeyyam\Desktop\atm\atm\bin\Debug\atm.exe
+C:\Users\Xeyyam\Desktop\atm\atm\bin\Debug\atm.pdb
+C:\Users\Xeyyam\Desktop\atm\atm\obj\Debug\atm.csprojResolveAssemblyReference.cache
+C:\Users\Xeyyam\Desktop\atm\atm\obj\Debug\atm.exe
+C:\Users\Xeyyam\Desktop\atm\atm\obj\Debug\atm.pdb
